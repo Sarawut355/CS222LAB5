@@ -1,0 +1,2501 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 12208 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/3-2/222_Somnuek/Lab/Lab_5/BT4
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59165
+Successfully changed project path to: E:/3-2/222_Somnuek/Lab/Lab_5/BT4
+E:/3-2/222_Somnuek/Lab/Lab_5/BT4
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/3-2/222_Somnuek/Lab/Lab_5/BT4/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002525 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.652 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2652ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (557ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (201ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (204ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (100ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005259 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.993 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1994ms)
+		BeginReloadAssembly (184ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1734ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (362ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (1079ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (267ms)
+				ProcessInitializeOnLoadMethodAttributes (697ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 4.277000 ms (FindLiveObjects: 0.176100 ms CreateObjectMapping: 0.057500 ms MarkObjects: 3.883300 ms  DeleteObjects: 0.158600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.015451 seconds 
+  Import took 0.018400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.401705 seconds.
+  path: Assets/R.mat
+  artifactKey: Guid(48dc203ce06089a48a6074e8474bdfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/R.mat using Guid(48dc203ce06089a48a6074e8474bdfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51e041fd883b0e061d39e931aa5126c') in 0.216425 seconds 
+  Import took 0.221679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.747083 seconds.
+  path: Assets/G.mat
+  artifactKey: Guid(06524c0be1f25aa47ad2a095f6cba9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/G.mat using Guid(06524c0be1f25aa47ad2a095f6cba9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18d07f0ececf2ef22f0ebbde998679c') in 0.033901 seconds 
+  Import took 0.038591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.412572 seconds.
+  path: Assets/B.mat
+  artifactKey: Guid(7a6a9722f0f0ec54c9eae193241f0ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/B.mat using Guid(7a6a9722f0f0ec54c9eae193241f0ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3808b8e89fb08008a8bc7d3eedc160') in 0.029124 seconds 
+  Import took 0.032379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.558117 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(28f46a74a31928944b8c7d3f9d33113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(28f46a74a31928944b8c7d3f9d33113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18fefff818eee0a54ac199d09ff04faf') in 0.013147 seconds 
+  Import took 0.017208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.869742 seconds.
+  path: Assets/Material
+  artifactKey: Guid(28f46a74a31928944b8c7d3f9d33113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(28f46a74a31928944b8c7d3f9d33113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c682a10abdbdb0ed4e01f8de25beebb') in 0.012081 seconds 
+  Import took 0.015853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.839332 seconds.
+  path: Assets/Material/Player.mat
+  artifactKey: Guid(1ebf0378c9e33dd47944d69a7bb29b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Player.mat using Guid(1ebf0378c9e33dd47944d69a7bb29b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb89263fd80c6f53b015970e505a5820') in 0.039418 seconds 
+  Import took 0.045654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.805091 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/Action_Icon_small.png
+  artifactKey: Guid(dc26844c00bed13449a5d8a549f28bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/Action_Icon_small.png using Guid(dc26844c00bed13449a5d8a549f28bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77bbf319c2fcd2353cb8d911758497a8') in 0.045832 seconds 
+  Import took 0.051243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000970 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Backgrounds/Background_64x64_GRID.png
+  artifactKey: Guid(4c06a50c07c433541b2e7aee814f66c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Backgrounds/Background_64x64_GRID.png using Guid(4c06a50c07c433541b2e7aee814f66c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58ae10b6a6222f88a0d9b8be8b96744') in 0.018203 seconds 
+  Import took 0.028262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behavior_toolBox_main.png
+  artifactKey: Guid(4632d710c9a1eab4893106cb75b263b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behavior_toolBox_main.png using Guid(4632d710c9a1eab4893106cb75b263b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e378f17009d393697db263025bf4abe9') in 0.025590 seconds 
+  Import took 0.029338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Backgrounds/Background_2048x2048.png
+  artifactKey: Guid(16a55ff2716c1f241b5ade2985dbdf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Backgrounds/Background_2048x2048.png using Guid(16a55ff2716c1f241b5ade2985dbdf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83abbc2a9b729f8f87806621482ebbbe') in 0.021489 seconds 
+  Import took 0.028017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BBicon.png
+  artifactKey: Guid(5fb48d19fd22e044996fc61ec0081642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BBicon.png using Guid(5fb48d19fd22e044996fc61ec0081642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3520c6b10833f44ec9003e976804f941') in 0.025631 seconds 
+  Import took 0.032249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/action_toolBox_hover.png
+  artifactKey: Guid(0683b830ddf5c5f45b6304e2a84abd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/action_toolBox_hover.png using Guid(0683b830ddf5c5f45b6304e2a84abd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8367e0e24ad1e97262a48c796fad09c1') in 0.020535 seconds 
+  Import took 0.023498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/Background_Light.png
+  artifactKey: Guid(be9f77aedc5c3bf43a833cb59fbc74a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/Background_Light.png using Guid(be9f77aedc5c3bf43a833cb59fbc74a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5477cd432fd949744876ffc35f6f7ba2') in 0.015375 seconds 
+  Import took 0.019049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behavior_toolBox_hover.png
+  artifactKey: Guid(53e8f4fb08ac98444930a8623c10e6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behavior_toolBox_hover.png using Guid(53e8f4fb08ac98444930a8623c10e6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d549e530ec5c786d4d5bbabc5032e54') in 0.021953 seconds 
+  Import took 0.025822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/action_toolBox_main.png
+  artifactKey: Guid(11d5f6af5d6d75b4986a2cb28e7cee3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/action_toolBox_main.png using Guid(11d5f6af5d6d75b4986a2cb28e7cee3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf0d72370b3d8ca23b73466c704648e') in 0.019702 seconds 
+  Import took 0.023291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Backgrounds/BackgroundPrioritySelector.png
+  artifactKey: Guid(fd6b095a59cd70340a7e2ef18a0e8f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Backgrounds/BackgroundPrioritySelector.png using Guid(fd6b095a59cd70340a7e2ef18a0e8f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20cf0b38bee2de044e01b1e4fe41d76') in 0.017137 seconds 
+  Import took 0.022898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.935717 seconds.
+  path: Assets/Material/269742626_4764135787007861_7649146492386090840_n.jpg
+  artifactKey: Guid(6fa8d6d2880b2db4887272ea134e29af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/269742626_4764135787007861_7649146492386090840_n.jpg using Guid(6fa8d6d2880b2db4887272ea134e29af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b33e33530360c5fd183cde07461d42') in 0.026336 seconds 
+  Import took 0.031579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.129822 seconds.
+  path: Assets/Material/B.mat
+  artifactKey: Guid(7a6a9722f0f0ec54c9eae193241f0ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/B.mat using Guid(7a6a9722f0f0ec54c9eae193241f0ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c6831bc6d1edfcca27847376017406') in 0.023652 seconds 
+  Import took 0.029444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Material/G.mat
+  artifactKey: Guid(06524c0be1f25aa47ad2a095f6cba9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/G.mat using Guid(06524c0be1f25aa47ad2a095f6cba9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabd3d391d702a0d8c72cc078ae62e36') in 0.027653 seconds 
+  Import took 0.032913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Material/Player.mat
+  artifactKey: Guid(1ebf0378c9e33dd47944d69a7bb29b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Player.mat using Guid(1ebf0378c9e33dd47944d69a7bb29b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778cdd5ac2fd955ab7d802b092755648') in 0.023826 seconds 
+  Import took 0.026996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Material/R.mat
+  artifactKey: Guid(48dc203ce06089a48a6074e8474bdfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/R.mat using Guid(48dc203ce06089a48a6074e8474bdfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb34627d2ee5ec64f2d6ad349ac72c7d') in 0.024088 seconds 
+  Import took 0.030444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Wander.asset
+  artifactKey: Guid(612764b4e07e4984fad61391ecadaed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wander.asset using Guid(612764b4e07e4984fad61391ecadaed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd873cbf7390b9e9aabad46f8e6f9e18c') in 0.037877 seconds 
+  Import took 0.041651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 729.911311 seconds.
+  path: Assets/Wander.asset
+  artifactKey: Guid(612764b4e07e4984fad61391ecadaed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wander.asset using Guid(612764b4e07e4984fad61391ecadaed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7543994fb98b2216a423fcc78a1abf24') in 0.012890 seconds 
+  Import took 0.022392 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.953 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1954ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (59ms)
+		EndReloadAssembly (1700ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (382ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (1016ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (256ms)
+				ProcessInitializeOnLoadMethodAttributes (651ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2036.
+Total: 3.954700 ms (FindLiveObjects: 0.200900 ms CreateObjectMapping: 0.052500 ms MarkObjects: 3.648700 ms  DeleteObjects: 0.051400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.008 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2009ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1768ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (412ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (1067ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (254ms)
+				ProcessInitializeOnLoadMethodAttributes (697ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2038.
+Total: 6.477900 ms (FindLiveObjects: 0.699600 ms CreateObjectMapping: 0.236000 ms MarkObjects: 5.488600 ms  DeleteObjects: 0.049100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.353 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2354ms)
+		BeginReloadAssembly (147ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (2123ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (553ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (1252ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (296ms)
+				ProcessInitializeOnLoadMethodAttributes (838ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2040.
+Total: 4.351000 ms (FindLiveObjects: 0.177800 ms CreateObjectMapping: 0.063600 ms MarkObjects: 4.082800 ms  DeleteObjects: 0.025400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006787 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.153 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2154ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1896ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (411ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (1170ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (246ms)
+				ProcessInitializeOnLoadMethodAttributes (805ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2042.
+Total: 4.810000 ms (FindLiveObjects: 0.518900 ms CreateObjectMapping: 0.133900 ms MarkObjects: 4.134500 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007133 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.635 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3636ms)
+		BeginReloadAssembly (314ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (140ms)
+		EndReloadAssembly (3172ms)
+			LoadAssemblies (212ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (704ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (123ms)
+			SetupLoadedEditorAssemblies (1889ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (173ms)
+				ProcessInitializeOnLoadAttributes (454ms)
+				ProcessInitializeOnLoadMethodAttributes (1225ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2044.
+Total: 5.290200 ms (FindLiveObjects: 0.262700 ms CreateObjectMapping: 0.097000 ms MarkObjects: 4.903800 ms  DeleteObjects: 0.025400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.799 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3800ms)
+		BeginReloadAssembly (337ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (93ms)
+		EndReloadAssembly (3297ms)
+			LoadAssemblies (289ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (715ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (110ms)
+			SetupLoadedEditorAssemblies (2026ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (184ms)
+				ProcessInitializeOnLoadAttributes (484ms)
+				ProcessInitializeOnLoadMethodAttributes (1324ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2046.
+Total: 6.070600 ms (FindLiveObjects: 0.326800 ms CreateObjectMapping: 0.166800 ms MarkObjects: 5.538900 ms  DeleteObjects: 0.035500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.984 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1984ms)
+		BeginReloadAssembly (144ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (1755ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (424ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (1034ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (685ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2048.
+Total: 4.017200 ms (FindLiveObjects: 0.189000 ms CreateObjectMapping: 0.062800 ms MarkObjects: 3.738800 ms  DeleteObjects: 0.024800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.830 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3832ms)
+		BeginReloadAssembly (320ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (22ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (91ms)
+		EndReloadAssembly (3348ms)
+			LoadAssemblies (274ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (730ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (110ms)
+			SetupLoadedEditorAssemblies (2032ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (181ms)
+				ProcessInitializeOnLoadAttributes (491ms)
+				ProcessInitializeOnLoadMethodAttributes (1326ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2050.
+Total: 9.319800 ms (FindLiveObjects: 0.237700 ms CreateObjectMapping: 0.086100 ms MarkObjects: 8.739300 ms  DeleteObjects: 0.250200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010094 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.127 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4129ms)
+		BeginReloadAssembly (311ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (107ms)
+		EndReloadAssembly (3649ms)
+			LoadAssemblies (258ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (795ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (117ms)
+			SetupLoadedEditorAssemblies (2236ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (188ms)
+				ProcessInitializeOnLoadAttributes (527ms)
+				ProcessInitializeOnLoadMethodAttributes (1477ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2052.
+Total: 7.375900 ms (FindLiveObjects: 0.263600 ms CreateObjectMapping: 0.120200 ms MarkObjects: 6.910200 ms  DeleteObjects: 0.078300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.208 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3209ms)
+		BeginReloadAssembly (300ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (98ms)
+		EndReloadAssembly (2742ms)
+			LoadAssemblies (265ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (838ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (118ms)
+			SetupLoadedEditorAssemblies (1311ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (195ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (721ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2054.
+Total: 4.816400 ms (FindLiveObjects: 0.201900 ms CreateObjectMapping: 0.060800 ms MarkObjects: 4.528300 ms  DeleteObjects: 0.024000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008485 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.868 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2869ms)
+		BeginReloadAssembly (282ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (90ms)
+		EndReloadAssembly (2433ms)
+			LoadAssemblies (247ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (716ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (1259ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (284ms)
+				ProcessInitializeOnLoadMethodAttributes (834ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2056.
+Total: 3.988700 ms (FindLiveObjects: 0.197600 ms CreateObjectMapping: 0.059500 ms MarkObjects: 3.679900 ms  DeleteObjects: 0.050500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1642.888871 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Skins/BBProSkin.guiskin
+  artifactKey: Guid(241b309db67a4b44aa82119f5203244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Skins/BBProSkin.guiskin using Guid(241b309db67a4b44aa82119f5203244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f50727d977ac5949ad3d708c6e2995') in 0.033982 seconds 
+  Import took 0.037136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001713 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Skins/BBSkin.guiskin
+  artifactKey: Guid(9d60fd46d3cc2844a92a063cb5a795e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Skins/BBSkin.guiskin using Guid(9d60fd46d3cc2844a92a063cb5a795e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ba0f4363b0c8e9eadd9a501399fb06') in 0.014004 seconds 
+  Import took 0.017211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.531979 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/behaviourSheet_background.png
+  artifactKey: Guid(1cbeac0aa048cb441ad90268daf04bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/behaviourSheet_background.png using Guid(1cbeac0aa048cb441ad90268daf04bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0549341c7ab35c1806d19ef9082108') in 0.117045 seconds 
+  Import took 0.122749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behaviourSheet_backgroundPRO.png
+  artifactKey: Guid(2476f3423787cc04e91e861c5964110a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behaviourSheet_backgroundPRO.png using Guid(2476f3423787cc04e91e861c5964110a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc49d365321755c1615daa38987983c4') in 0.017354 seconds 
+  Import took 0.021105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behaviourSheet_background.png
+  artifactKey: Guid(d09f85c1d97ac1743bff329510dd544c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/behaviourSheet_background.png using Guid(d09f85c1d97ac1743bff329510dd544c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ca80a45e28b01a2325077d0af9ba45') in 0.015254 seconds 
+  Import took 0.019508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.180301 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/behaviourSheet_bg_right.png
+  artifactKey: Guid(80c95383d4cac784d983ef580eead969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/behaviourSheet_bg_right.png using Guid(80c95383d4cac784d983ef580eead969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247e63c9d1159f42292c8c159ea1726b') in 0.019401 seconds 
+  Import took 0.023230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Light-Restricted.otf
+  artifactKey: Guid(0192f16c1798db14ba07aca989fa12ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Light-Restricted.otf using Guid(0192f16c1798db14ba07aca989fa12ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7436fdfaf0fd7463849d9a0938024bb1') in 0.087488 seconds 
+  Import took 0.092997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Regular.otf
+  artifactKey: Guid(4a1153ead1102c84a941e03b9208fc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Regular.otf using Guid(4a1153ead1102c84a941e03b9208fc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8ab461ae24bc2b4ecdf38c183b7857') in 0.022047 seconds 
+  Import took 0.027772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Bold.otf
+  artifactKey: Guid(e224b62d1bda84749a8f4ca8ffe25255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Bold.otf using Guid(e224b62d1bda84749a8f4ca8ffe25255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298f1d905caf4afa4789dd52107595c3') in 0.031473 seconds 
+  Import took 0.035820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Black.otf
+  artifactKey: Guid(4b33420a4f4403c4fb8dd41e235abe38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Fonts/Biko_Black.otf using Guid(4b33420a4f4403c4fb8dd41e235abe38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01e9ef808d64f124e8ce000038ef78a') in 0.022088 seconds 
+  Import took 0.031699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/BlackTexture.png
+  artifactKey: Guid(cdb3a611c504a75498b0251f222b0893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/BlackTexture.png using Guid(cdb3a611c504a75498b0251f222b0893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a98ad8877e585928dd020334a6e2c86') in 0.016848 seconds 
+  Import took 0.021142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.180430 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/blank.png
+  artifactKey: Guid(3612cbdc0b07a3446b9312e13687739e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/blank.png using Guid(3612cbdc0b07a3446b9312e13687739e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e8cb5f99964e4fee6462025eea333c') in 0.013126 seconds 
+  Import took 0.016578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/BlueTexture.jpg
+  artifactKey: Guid(9a919d069565ff345819ed5759014950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/BlueTexture.jpg using Guid(9a919d069565ff345819ed5759014950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f21027f706b2c248b600caec4d95d1') in 0.018649 seconds 
+  Import took 0.021767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046240 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/BT_Icon_small.png
+  artifactKey: Guid(d7cc0fda7be48344f9f301a9ba177b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/BT_Icon_small.png using Guid(d7cc0fda7be48344f9f301a9ba177b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc813beec75aebfc8dc03fb9cdb0039') in 0.016193 seconds 
+  Import took 0.019870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_action_hover.png
+  artifactKey: Guid(6d6c6ae10e60b714da9c68046440342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_action_hover.png using Guid(6d6c6ae10e60b714da9c68046440342c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab79b5fb73b800bfc0a216473721cb5') in 0.016732 seconds 
+  Import took 0.020157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.205336 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_action_normal.png
+  artifactKey: Guid(2a6a68bd05df3e84ba5b4964de07340e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_action_normal.png using Guid(2a6a68bd05df3e84ba5b4964de07340e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e14ef27dcb8117071c965ed9369c2d') in 0.013045 seconds 
+  Import took 0.016563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_action_pressed.png
+  artifactKey: Guid(7a7a6e59f91515746b2f4c6c9bc9a6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_action_pressed.png using Guid(7a7a6e59f91515746b2f4c6c9bc9a6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fee4eb183ddf5d87382702077223adf') in 0.018495 seconds 
+  Import took 0.022790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_condition_normal.png
+  artifactKey: Guid(e5c088250488030488b6f7e60657edd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_condition_normal.png using Guid(e5c088250488030488b6f7e60657edd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b75ef76f2508b83fb37ed91bebc9a8b') in 0.016448 seconds 
+  Import took 0.020164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000740 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_condition_hover.png
+  artifactKey: Guid(03434c1af6c40af4b97bf211546e0a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_condition_hover.png using Guid(03434c1af6c40af4b97bf211546e0a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadf2380e3a8b3614b159389587a970c') in 0.021351 seconds 
+  Import took 0.030525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008387 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_condition_pressed.png
+  artifactKey: Guid(868580a0d07c06149bfb4b06989c16ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_condition_pressed.png using Guid(868580a0d07c06149bfb4b06989c16ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a515dc0175a5e12c5081e1d24963915d') in 0.018377 seconds 
+  Import took 0.021962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_guarda_hover.png
+  artifactKey: Guid(79f162a3e710a5043b0df51e1126fcee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_guarda_hover.png using Guid(79f162a3e710a5043b0df51e1126fcee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185086cdf28090fe2bbee482854c9895') in 0.015436 seconds 
+  Import took 0.019592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_guarda_pressed.png
+  artifactKey: Guid(985741552cfa9aa4b9c4c914caeed030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_guarda_pressed.png using Guid(985741552cfa9aa4b9c4c914caeed030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3139b75c8b3375c0debddd5120a809') in 0.025713 seconds 
+  Import took 0.032489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_guarda_normal.png
+  artifactKey: Guid(e38018beb13b94345b06557518531a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_guarda_normal.png using Guid(e38018beb13b94345b06557518531a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3b1f0ebbf697873fbc6040ca47bcb2') in 0.019070 seconds 
+  Import took 0.026799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165451 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_inversor_hover.png
+  artifactKey: Guid(9cafe946e54ea7344b16079feee41072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_inversor_hover.png using Guid(9cafe946e54ea7344b16079feee41072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83f6aa89b3f6f6b49f5c9b386958846') in 0.012449 seconds 
+  Import took 0.015807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_inversor_normal.png
+  artifactKey: Guid(edcfec5d81c51464cae596a4b248a116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_inversor_normal.png using Guid(edcfec5d81c51464cae596a4b248a116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '337b59853192232dce43a39dfe441727') in 0.018661 seconds 
+  Import took 0.021964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.341699 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_inversor_pressed.png
+  artifactKey: Guid(fd8991f1ee6c1a4469f6be989a5a26de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_inversor_pressed.png using Guid(fd8991f1ee6c1a4469f6be989a5a26de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f963df4f7125ef2bf13643cc9e53b3') in 0.013289 seconds 
+  Import took 0.019024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_parallel_hover.png
+  artifactKey: Guid(6e1285dcd37250c4380aaee1268b9b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_parallel_hover.png using Guid(6e1285dcd37250c4380aaee1268b9b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9f1abd8f68baf3a89438cf75a424ff') in 0.016077 seconds 
+  Import took 0.024548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034023 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_parallel_normal.png
+  artifactKey: Guid(8c5238ac9726841439884ddd3a1ea47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_parallel_normal.png using Guid(8c5238ac9726841439884ddd3a1ea47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a180297f09525b356591d4a68deb7cb3') in 0.015112 seconds 
+  Import took 0.023400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_prioritySelector_normal.png
+  artifactKey: Guid(5a30f67c26a687e46876165033e3709d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_prioritySelector_normal.png using Guid(5a30f67c26a687e46876165033e3709d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911ce4d3d293fa027564df0daeaa023a') in 0.017969 seconds 
+  Import took 0.021613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_parallel_pressed.png
+  artifactKey: Guid(3f1c4a32424fc7249b5a881f73dfc798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_parallel_pressed.png using Guid(3f1c4a32424fc7249b5a881f73dfc798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2fc18ca014945f1bf45e295436564f') in 0.017670 seconds 
+  Import took 0.023632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001052 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSelector_hover.png
+  artifactKey: Guid(5bcbb95d20aabea46bf4128c934d4df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSelector_hover.png using Guid(5bcbb95d20aabea46bf4128c934d4df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fecff663999ca3ff204dde908cc9772') in 0.016765 seconds 
+  Import took 0.022247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_prioritySelector_pressed.png
+  artifactKey: Guid(0f4da0a855a1e0f458db6dbcfbe39769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_prioritySelector_pressed.png using Guid(0f4da0a855a1e0f458db6dbcfbe39769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86a66c891bf709841e1cbbecaef386a') in 0.018345 seconds 
+  Import took 0.022962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_prioritySelector_hover.png
+  artifactKey: Guid(1010d162594d3484b97aeacdb62a8c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_prioritySelector_hover.png using Guid(1010d162594d3484b97aeacdb62a8c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d271412c77d1f7357ef47585999430d') in 0.016896 seconds 
+  Import took 0.023474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.208077 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSelector_normal.png
+  artifactKey: Guid(2a53bff4414d00a43ab2fb839952332d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSelector_normal.png using Guid(2a53bff4414d00a43ab2fb839952332d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b415590076c8894a206e626b134af027') in 0.011388 seconds 
+  Import took 0.024051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSelector_pressed.png
+  artifactKey: Guid(b2566a68466fd1f40bc854478d48d163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSelector_pressed.png using Guid(b2566a68466fd1f40bc854478d48d163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec3c367544515c54d22a29ef649f439') in 0.015951 seconds 
+  Import took 0.019538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSequence_normal.png
+  artifactKey: Guid(b99f1354e36f419479552b6277ee2475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSequence_normal.png using Guid(b99f1354e36f419479552b6277ee2475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2592fed17f851b763c1a78b9d6ae1621') in 0.017996 seconds 
+  Import took 0.021647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSequence_hover.png
+  artifactKey: Guid(516ac415d9746444f9054487d48e3eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSequence_hover.png using Guid(516ac415d9746444f9054487d48e3eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '381647c88c39ee60c20c8056d543e0fc') in 0.024904 seconds 
+  Import took 0.029050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021188 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSequence_pressed.png
+  artifactKey: Guid(2adfdb9f74dbc484e8c7f8a109c4867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_randomSequence_pressed.png using Guid(2adfdb9f74dbc484e8c7f8a109c4867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20c991891cc6d75513f199c7c0c1230') in 0.019187 seconds 
+  Import took 0.026464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_repeat_hover.png
+  artifactKey: Guid(f89c67c7871150a448cc5d299129b99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_repeat_hover.png using Guid(f89c67c7871150a448cc5d299129b99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a9ea37a0e08a88156072e482da7ba3') in 0.019687 seconds 
+  Import took 0.025805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_repeat_pressed.png
+  artifactKey: Guid(e749573288ca88e47ab8272fa569d5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_repeat_pressed.png using Guid(e749573288ca88e47ab8272fa569d5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f439c1ab338aff90d9c225e85406eec') in 0.023865 seconds 
+  Import took 0.027658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_repeat_normal.png
+  artifactKey: Guid(3f66e81bebbd52e4ea7e5319139c401d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_repeat_normal.png using Guid(3f66e81bebbd52e4ea7e5319139c401d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2869cdac361d14d515078e817abe1e03') in 0.018690 seconds 
+  Import took 0.025246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131480 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_selector_hover.png
+  artifactKey: Guid(06fffa235239cab498dd761548429c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_selector_hover.png using Guid(06fffa235239cab498dd761548429c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a9edadf847e472941ed24a90807a91') in 0.014369 seconds 
+  Import took 0.019603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_selector_pressed.png
+  artifactKey: Guid(be7a2df8da1d10945bacbf7a27d586e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_selector_pressed.png using Guid(be7a2df8da1d10945bacbf7a27d586e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6836cfbbb1a0863369abc7a6d6c1a9a') in 0.017400 seconds 
+  Import took 0.021120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_selector_normal.png
+  artifactKey: Guid(e5b8902348d765f40bf19ca85f4f5738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_selector_normal.png using Guid(e5b8902348d765f40bf19ca85f4f5738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f67e953a4f5604d652acd6048b87ff5') in 0.016095 seconds 
+  Import took 0.021811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_sequence_hover.png
+  artifactKey: Guid(5c0828b58ed74eb499a22e425af922f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_sequence_hover.png using Guid(5c0828b58ed74eb499a22e425af922f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d57794be0d7c73f282b7c2e80d6ffd') in 0.017725 seconds 
+  Import took 0.023255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005233 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_sequence_normal.png
+  artifactKey: Guid(1234d3527f3729346acc4072547087e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_sequence_normal.png using Guid(1234d3527f3729346acc4072547087e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691cd85e8ac626c62e9afca1986087da') in 0.016529 seconds 
+  Import took 0.024586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_sequence_pressed.png
+  artifactKey: Guid(a9b928e93a7888e4090d6f2b4ca75859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/btn_sequence_pressed.png using Guid(a9b928e93a7888e4090d6f2b4ca75859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253eb24e7897bfac93ab1af0def2a733') in 0.018930 seconds 
+  Import took 0.023741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_hover.png
+  artifactKey: Guid(7be75a7db7c5ac242bb47efaf4f5d931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_hover.png using Guid(7be75a7db7c5ac242bb47efaf4f5d931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810c1226b8f31a95cd8ef6979a09fa4f') in 0.019827 seconds 
+  Import took 0.025549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_hoverPRO.png
+  artifactKey: Guid(37f56f73f3653ad4688f74551d95647f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_hoverPRO.png using Guid(37f56f73f3653ad4688f74551d95647f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5631396746f04052b90dc0c4db1d351') in 0.016965 seconds 
+  Import took 0.020831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.154751 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_normal.png
+  artifactKey: Guid(4e42e88bb191d5f43a543ea10f7376d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_normal.png using Guid(4e42e88bb191d5f43a543ea10f7376d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e0b21a1cfa73db0fa05acfd3dd4927') in 0.014964 seconds 
+  Import took 0.021364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_normalPRO.png
+  artifactKey: Guid(df9a3bcc84602ce4bbaae6350787ff6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/button_x_grey_normalPRO.png using Guid(df9a3bcc84602ce4bbaae6350787ff6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d1ba440bab1b3200345264119a3d66') in 0.016728 seconds 
+  Import took 0.021732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009875 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/buttonFrame.png
+  artifactKey: Guid(ef2ad5c00a3ec054fa2d27056f93fe72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/buttonFrame.png using Guid(ef2ad5c00a3ec054fa2d27056f93fe72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ef0d85dabd595d791e7618ef21a914') in 0.019342 seconds 
+  Import took 0.023200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/buttonFrameDisabled.png
+  artifactKey: Guid(a43314653df38f44e9d5d8a6cbc69770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/buttonFrameDisabled.png using Guid(a43314653df38f44e9d5d8a6cbc69770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07c29029ed9de4209bf2bfc4b89c314') in 0.018592 seconds 
+  Import took 0.023073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000998 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/buttonFramePRO.png
+  artifactKey: Guid(7b4cb36dcc7cc7b4ebd10a7188b5639c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/buttonFramePRO.png using Guid(7b4cb36dcc7cc7b4ebd10a7188b5639c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def84126f531bc7cfe5a8724abf7d773') in 0.025169 seconds 
+  Import took 0.030512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/buttonFrameDisabledPRO.png
+  artifactKey: Guid(afed7c8cdf34a9f439a68eba3bef97be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/buttonFrameDisabledPRO.png using Guid(afed7c8cdf34a9f439a68eba3bef97be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca328ccd86405c1b0442069a998250d') in 0.014892 seconds 
+  Import took 0.025162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.212631 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/close.png
+  artifactKey: Guid(ef0288daa1165a849a3303aaf09c91db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/close.png using Guid(ef0288daa1165a849a3303aaf09c91db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc2d3b3f41e9e64634d846835bcd90c') in 0.013453 seconds 
+  Import took 0.018291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/closeHover.png
+  artifactKey: Guid(1cd7003b32068324488dac35f33d3730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/closeHover.png using Guid(1cd7003b32068324488dac35f33d3730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ec13ad619d8bd15abf9f54bab942c8') in 0.018513 seconds 
+  Import took 0.021847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/closePressed.png
+  artifactKey: Guid(577d06caf5ec1814185f150d5bb7f9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/closePressed.png using Guid(577d06caf5ec1814185f150d5bb7f9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46ffd5cdba4acb6053663dcedc4dc4e') in 0.018119 seconds 
+  Import took 0.024260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.243488 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/Condition_Icon_small.png
+  artifactKey: Guid(dfc83773c6f32fb42a8d290c102db66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/Condition_Icon_small.png using Guid(dfc83773c6f32fb42a8d290c102db66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60571798a854b905875a12f041ec2bea') in 0.016637 seconds 
+  Import took 0.022398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029855 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/condition_toolBox_hover.png
+  artifactKey: Guid(6be3786354d3eec4382c347c6f898a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/condition_toolBox_hover.png using Guid(6be3786354d3eec4382c347c6f898a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c99c4df32a7fb25f58e9c20f515ad3') in 0.017328 seconds 
+  Import took 0.023048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/condition_toolBox_main.png
+  artifactKey: Guid(740523298722bbc4c84ab5805af83593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/condition_toolBox_main.png using Guid(740523298722bbc4c84ab5805af83593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0201a6d2f5d15787aed833744db2b6') in 0.019127 seconds 
+  Import took 0.022568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.246000 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_connected_hover.png
+  artifactKey: Guid(2fa0ffd1cd209374a9953c111abc020b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_connected_hover.png using Guid(2fa0ffd1cd209374a9953c111abc020b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9028f65cfafc7f1727948e040cf7f9d3') in 0.013949 seconds 
+  Import took 0.018091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_connected_normal.png
+  artifactKey: Guid(fe3fc3817071b464b87de55296a5f4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_connected_normal.png using Guid(fe3fc3817071b464b87de55296a5f4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4052d98c2e948f32b7d83a7bde25e6') in 0.024938 seconds 
+  Import took 0.028710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_hover.png
+  artifactKey: Guid(8c375a4bb0013ab4fb636e3a32a82e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_hover.png using Guid(8c375a4bb0013ab4fb636e3a32a82e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e396c95ae8d492a24d9ea60662ced2f6') in 0.021941 seconds 
+  Import took 0.025900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017955 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_lighting.png
+  artifactKey: Guid(2b2867074f0db9b429c6b904153018e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_lighting.png using Guid(2b2867074f0db9b429c6b904153018e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fab36014d19dc89d05e3184d4be708') in 0.018345 seconds 
+  Import took 0.025441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_lighting_hover.png
+  artifactKey: Guid(2c09c2dade3c7f846acb949f7c80687b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_lighting_hover.png using Guid(2c09c2dade3c7f846acb949f7c80687b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2839ed3248cb7adf3dbc3afb6380d7') in 0.019920 seconds 
+  Import took 0.023534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_normal.png
+  artifactKey: Guid(993652808c9420548a8d4ade43a6c42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_female_normal.png using Guid(993652808c9420548a8d4ade43a6c42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b289ffbaff00bd63a34e930c312cc4') in 0.020509 seconds 
+  Import took 0.026036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_connected_hover.png
+  artifactKey: Guid(7c148ea6c2bf4c1448e22d40e2a257c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_connected_hover.png using Guid(7c148ea6c2bf4c1448e22d40e2a257c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e4cc663c6cd353cb2a76f942c62b72') in 0.020547 seconds 
+  Import took 0.027094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.151969 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/connector_male_connected_normal.png
+  artifactKey: Guid(19d0647fee76e814081fe33661d947a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/connector_male_connected_normal.png using Guid(19d0647fee76e814081fe33661d947a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b99f455302d0d9c36181e74afe4bda') in 0.014443 seconds 
+  Import took 0.018378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_connected_normal.png
+  artifactKey: Guid(cb036e302689cc24c8d40a74d2c70e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_connected_normal.png using Guid(cb036e302689cc24c8d40a74d2c70e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced8e1399bc3a6c153ee309a59f7d323') in 0.005704 seconds 
+  Import took 0.008915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048145 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/connector_male_hover.png
+  artifactKey: Guid(5e0cf63f8ee0b454589f513fd6278a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/connector_male_hover.png using Guid(5e0cf63f8ee0b454589f513fd6278a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a319722589c15b1acd743ad400368d2') in 0.019059 seconds 
+  Import took 0.023909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/connector_male_normal.png
+  artifactKey: Guid(ff9cb2c2a02240644abe06ff9a69f87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/connector_male_normal.png using Guid(ff9cb2c2a02240644abe06ff9a69f87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a3022182a5d84f78fc52377a813fb7') in 0.019424 seconds 
+  Import took 0.023288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_normal.png
+  artifactKey: Guid(9036bd6e8520e8f4881e973574136a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_normal.png using Guid(9036bd6e8520e8f4881e973574136a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed922bbfe9cfbacd582c9c94f4555cc0') in 0.015565 seconds 
+  Import took 0.021607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001119 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneAbortableClickAndGo.asset
+  artifactKey: Guid(94f7b8d9d503df647aec1b5cdce03b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneAbortableClickAndGo.asset using Guid(94f7b8d9d503df647aec1b5cdce03b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) DeserializeNextElement: Viene otra cosa: EndElement. TerminamosDeserializeNextElement: Viene otra cosa: EndElement. Terminamos -> (artifact id: '56b459398bfc0425b4c6337f621bb0b6') in 0.053215 seconds 
+  Import took 0.059466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_hover.png
+  artifactKey: Guid(dba773fe63c0b644a9a9385083352c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/connector_male_hover.png using Guid(dba773fe63c0b644a9a9385083352c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa520b7e7bae8ca80b069c20a5085152') in 0.011130 seconds 
+  Import took 0.014654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149228 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/DoneBlue.mat
+  artifactKey: Guid(2eadcb54bb4ca874d922be12b4f9f75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/DoneBlue.mat using Guid(2eadcb54bb4ca874d922be12b4f9f75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1028ee697fbd9fd862c9af8a344d3afd') in 0.215823 seconds 
+  Import took 0.219745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/BehaviorBricks/Samples/ProgrammersQuickStartGuide/Done/DoneBullet.prefab
+  artifactKey: Guid(5054610a218ed66468343c7d064e0a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/ProgrammersQuickStartGuide/Done/DoneBullet.prefab using Guid(5054610a218ed66468343c7d064e0a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c7a54b5e4a3b439fcdb3754e6eba5c') in 0.042842 seconds 
+  Import took 0.046430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/DoneGreen.mat
+  artifactKey: Guid(23098683d2412d6429d0eb1b0a0630ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/DoneGreen.mat using Guid(23098683d2412d6429d0eb1b0a0630ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f7fe49a57ac38f53f6a8c874423c06') in 0.019758 seconds 
+  Import took 0.026877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneClickAndGo.asset
+  artifactKey: Guid(6c77abc6244c7604a93f480b49b233c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneClickAndGo.asset using Guid(6c77abc6244c7604a93f480b49b233c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) DeserializeNextElement: Viene otra cosa: EndElement. Terminamos -> (artifact id: '870e071277c451df9eaf3b65961c228d') in 0.018303 seconds 
+  Import took 0.024134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/BehaviorBricks/Samples/ProgrammersQuickStartGuide/Done/Resources/Behaviors/DoneEnemyBehavior.asset
+  artifactKey: Guid(cefec543fe1d8774aa0b18d5ab374a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/ProgrammersQuickStartGuide/Done/Resources/Behaviors/DoneEnemyBehavior.asset using Guid(cefec543fe1d8774aa0b18d5ab374a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68670ec6726323877320f3f3bfcc19c0') in 0.018345 seconds 
+  Import took 0.024076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneEnemyBehavior.asset
+  artifactKey: Guid(972a8759c682b4f45a272c752a694d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneEnemyBehavior.asset using Guid(972a8759c682b4f45a272c752a694d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) DeserializeNextElement: Viene otra cosa: EndElement. TerminamosDeserializeNextElement: Viene otra cosa: EndElement. Terminamos -> (artifact id: '4efb500d8fb16163e75673846bebace4') in 0.005694 seconds 
+  Import took 0.010655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030426 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/DoneRed.mat
+  artifactKey: Guid(1f91005bff0165e4dabcf4cbc61c2265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/DoneRed.mat using Guid(1f91005bff0165e4dabcf4cbc61c2265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859d59c2406d121921dc30b22169caed') in 0.021757 seconds 
+  Import took 0.026943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.323470 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneWander.asset
+  artifactKey: Guid(8adfddffa70852a45ba1b64354494e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Behaviors/DoneWander.asset using Guid(8adfddffa70852a45ba1b64354494e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c56c322a7a2cc5b0546c8fd6a640b8') in 0.011291 seconds 
+  Import took 0.014999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035948 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Enemy.prefab
+  artifactKey: Guid(9a13705e440519e4ea5b248f89a0ba6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/Resources/Enemy.prefab using Guid(9a13705e440519e4ea5b248f89a0ba6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) DeserializeNextElement: Viene otra cosa: EndElement. TerminamosDeserializeNextElement: Viene otra cosa: EndElement. Terminamos -> (artifact id: 'd0272288161996636a9f532970ea6f20') in 0.041156 seconds 
+  Import took 0.046020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.092412 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/grid.png
+  artifactKey: Guid(10d1a55a3f470ce479612156793ff138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/grid.png using Guid(10d1a55a3f470ce479612156793ff138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e30aea3e0e56b2526157a4036297dd') in 0.021459 seconds 
+  Import took 0.026264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/gris.png
+  artifactKey: Guid(9ddb38ac8051368408638a03f1e53276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/gris.png using Guid(9ddb38ac8051368408638a03f1e53276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647e88b05766f0870fa6097e1fa4717c') in 0.017073 seconds 
+  Import took 0.025378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056874 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/guide.png
+  artifactKey: Guid(1286ca7abae8057428c0092e84eefa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/guide.png using Guid(1286ca7abae8057428c0092e84eefa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd6905e52f8854a9e16304bf51cccf2') in 0.021126 seconds 
+  Import took 0.027775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.373677 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/Lienzo.png
+  artifactKey: Guid(01ca4b25ff76fb147a26aab914949491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/Lienzo.png using Guid(01ca4b25ff76fb147a26aab914949491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f97516d85dcc864959f8b771b4cf9c') in 0.012255 seconds 
+  Import took 0.015569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.361676 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/Loupe.png
+  artifactKey: Guid(118e4ce7c643a0643ab74e318aab7f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/Loupe.png using Guid(118e4ce7c643a0643ab74e318aab7f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3687615aa4a48d15181ce4c2f8530cf2') in 0.011868 seconds 
+  Import took 0.020759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndHoverButton.png
+  artifactKey: Guid(f57876c96d9741c409531bd0d46877f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndHoverButton.png using Guid(f57876c96d9741c409531bd0d46877f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ec243e4fd48c91a74b73807abe58a3') in 0.016112 seconds 
+  Import took 0.019189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.276083 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndHoverButtonPRO.png
+  artifactKey: Guid(5cee926a7e596f840a3193043ec86f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndHoverButtonPRO.png using Guid(5cee926a7e596f840a3193043ec86f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976e64375913dc922892ea36467abe13') in 0.013727 seconds 
+  Import took 0.017546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoButton.png
+  artifactKey: Guid(9799b85a34d401440a262694ca91543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoButton.png using Guid(9799b85a34d401440a262694ca91543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3ed56abaca3b1f0796722848c2a18d') in 0.019488 seconds 
+  Import took 0.022509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018566 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoButtonPRO.png
+  artifactKey: Guid(008c73d03195be545baa4ee8767da1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoButtonPRO.png using Guid(008c73d03195be545baa4ee8767da1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bb454560d1212a178c62dff50e59a0') in 0.018333 seconds 
+  Import took 0.024564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoHoverButton.png
+  artifactKey: Guid(ee31341ea0970354b81c6d128f95e4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoHoverButton.png using Guid(ee31341ea0970354b81c6d128f95e4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e42d53c4d55ad35102a040dbf4cca4') in 0.016748 seconds 
+  Import took 0.020617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeMiddle.png
+  artifactKey: Guid(10b2e526f79ac454799ee05b5fd484b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeMiddle.png using Guid(10b2e526f79ac454799ee05b5fd484b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258edbb7c64f6bcdbc67dee3fed230d3') in 0.017322 seconds 
+  Import took 0.023226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoHoverButtonPRO.png
+  artifactKey: Guid(8d37c24b47c4c484ab2d18b4cf513b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeEndNoHoverButtonPRO.png using Guid(8d37c24b47c4c484ab2d18b4cf513b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c779a3e8c205c19837cb0acfeb17b1') in 0.017544 seconds 
+  Import took 0.020968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeMiddlePRO.png
+  artifactKey: Guid(4d345d9f1706c5f44beef0b240b2affe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupeMiddlePRO.png using Guid(4d345d9f1706c5f44beef0b240b2affe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea493f14f00e862f86e80192a7857b7f') in 0.014006 seconds 
+  Import took 0.019811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupePRO.png
+  artifactKey: Guid(dab8f029fd54216478f265f713491ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/ListContainer/LoupePRO.png using Guid(dab8f029fd54216478f265f713491ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c1b4ac03de8491f15433f79188d2da') in 0.016972 seconds 
+  Import took 0.022615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.727473 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/move.png
+  artifactKey: Guid(e19f635f7654f4b49a43859acec5e01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/move.png using Guid(e19f635f7654f4b49a43859acec5e01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b27716d0e03b620866c8ce515ef6574') in 0.015701 seconds 
+  Import took 0.019725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001202 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/moveHover.png
+  artifactKey: Guid(709970cf0c07a364ba542dc988d9f810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/moveHover.png using Guid(709970cf0c07a364ba542dc988d9f810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bcddbef878adff4fcc3b2e77e2f1bd') in 0.021541 seconds 
+  Import took 0.026197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/movePressed.png
+  artifactKey: Guid(807c849c1b9629249b9e8f1f76b91afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/movePressed.png using Guid(807c849c1b9629249b9e8f1f76b91afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47925af0833d89d7630fc1026cdc9463') in 0.025744 seconds 
+  Import took 0.031162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.416502 seconds.
+  path: Assets/Scenes/SampleScene/NavMesh.asset
+  artifactKey: Guid(a87a2fec835ca8145ac29b9592336645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/NavMesh.asset using Guid(a87a2fec835ca8145ac29b9592336645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b212ca0cff1a9db74525c313bed53f10') in 0.011079 seconds 
+  Import took 0.014706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/InitialScene/NavMesh.asset
+  artifactKey: Guid(0057c6ff34fa5324c972d374cb4d9ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/InitialScene/NavMesh.asset using Guid(0057c6ff34fa5324c972d374cb4d9ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1e8196bc19eb8ea5dbd1dc20a0a641') in 0.003144 seconds 
+  Import took 0.006546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/BehaviorBricks/Samples/QuickStartGuide/Done/DoneScene/NavMesh.asset
+  artifactKey: Guid(86b3c9c76544a054d8089c08ad53b695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/QuickStartGuide/Done/DoneScene/NavMesh.asset using Guid(86b3c9c76544a054d8089c08ad53b695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69bf1b966a64eb1e76d39cdbe4b916e') in 0.004664 seconds 
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/BehaviorBricks/Samples/ProgrammersQuickStartGuide/Done/DoneScene/NavMesh.asset
+  artifactKey: Guid(26d34db2d1360c54399eaf11bc2b214c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Samples/ProgrammersQuickStartGuide/Done/DoneScene/NavMesh.asset using Guid(26d34db2d1360c54399eaf11bc2b214c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13a66c737be0670cb6c531205301e4d') in 0.002220 seconds 
+  Import took 0.005543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048581 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/node_hover.png
+  artifactKey: Guid(05e2e19ede7ceca4fb1a43ef8c7951a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/node_hover.png using Guid(05e2e19ede7ceca4fb1a43ef8c7951a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fd06829d82e32c6ddf36a0ae5fa8dc') in 0.015445 seconds 
+  Import took 0.019018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/node_hover.png
+  artifactKey: Guid(5a51f3a2d2c585e4c8aa4e0904076eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/node_hover.png using Guid(5a51f3a2d2c585e4c8aa4e0904076eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd55dd44bfe497dba61cbfc6694c3c348') in 0.009487 seconds 
+  Import took 0.015909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.357462 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/node_main.png
+  artifactKey: Guid(f9d08cc61a93f604381e999d1dc134ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/FreeTreeView/node_main.png using Guid(f9d08cc61a93f604381e999d1dc134ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '727f385e5301888474dc209e3d4b7f0e') in 0.014682 seconds 
+  Import took 0.018245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/node_main.png
+  artifactKey: Guid(c5f0da36b57a6564f8a9fddbfb3bf35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/Textures/node_main.png using Guid(c5f0da36b57a6564f8a9fddbfb3bf35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6cd0495b800dc3f5faf73e579b9de9') in 0.007138 seconds 
+  Import took 0.012870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045850 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeActive.png
+  artifactKey: Guid(f0e225660b7a46c4c8853c756a6956b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeActive.png using Guid(f0e225660b7a46c4c8853c756a6956b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7f3846a869e98fa884c66be391950b') in 0.015599 seconds 
+  Import took 0.021453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeHover.png
+  artifactKey: Guid(26d9df62dc663bf47b946807e2d10c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeHover.png using Guid(26d9df62dc663bf47b946807e2d10c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96671a11f1278ccf28bd735b43a155b7') in 0.020132 seconds 
+  Import took 0.024377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/NodeEditorDarkSkin.guiskin
+  artifactKey: Guid(97361c0f644666644a2ff9895b35f72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/NodeEditorDarkSkin.guiskin using Guid(97361c0f644666644a2ff9895b35f72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd8e5a087150ae211d2f7718f4324ed4') in 0.012474 seconds 
+  Import took 0.017157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/NodeEditorLightSkin_.guiskin
+  artifactKey: Guid(58a23eb16ef6ad849a52e8f59ae1aaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/NodeEditorLightSkin_.guiskin using Guid(58a23eb16ef6ad849a52e8f59ae1aaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e320bfb2cd5e760ab19389d83305e2') in 0.017602 seconds 
+  Import took 0.024948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/NodeEditorLightSkin.guiskin
+  artifactKey: Guid(5c4ee035c5b293b499a57915975c54aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/GUI Skins/Editor/NodeEditorLightSkin.guiskin using Guid(5c4ee035c5b293b499a57915975c54aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bea68c9bf4b799903ad9c929716051e') in 0.015222 seconds 
+  Import took 0.019139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.258396 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeHoverPro.png
+  artifactKey: Guid(6c3634d4c1b00184da9a7e9f6a460823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeHoverPro.png using Guid(6c3634d4c1b00184da9a7e9f6a460823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a46cd16dabdc86acdc4a309a19531b4') in 0.015087 seconds 
+  Import took 0.021424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Panel_FramePRO.png
+  artifactKey: Guid(e3312ad0aeeceb84fbba810b6ca2c16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Panel_FramePRO.png using Guid(e3312ad0aeeceb84fbba810b6ca2c16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21037ec751cf7f94290420d3e1c07695') in 0.015169 seconds 
+  Import took 0.018308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Panel_Frame.png
+  artifactKey: Guid(3caa1aa7742bdf44393369dc5351e6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Panel_Frame.png using Guid(3caa1aa7742bdf44393369dc5351e6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb19394d1c373db2bf25b9332baff3a5') in 0.013358 seconds 
+  Import took 0.017382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031276 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamIn.png
+  artifactKey: Guid(71c25e60fa35bd345ab8e08ad252fc32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamIn.png using Guid(71c25e60fa35bd345ab8e08ad252fc32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ef18d8cdea1299c43ed30c436e7ae0') in 0.016670 seconds 
+  Import took 0.019910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamInOut.png
+  artifactKey: Guid(5a6eac5740ee00b4ab1e7b409d7a8bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamInOut.png using Guid(5a6eac5740ee00b4ab1e7b409d7a8bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a895bfad70a38dff7fd050d54915b48d') in 0.014340 seconds 
+  Import took 0.017651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamOut.png
+  artifactKey: Guid(db1ef7a3330861540870d16c3136f6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamOut.png using Guid(db1ef7a3330861540870d16c3136f6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1560928ed88f1c2b371ca22686a88a67') in 0.014711 seconds 
+  Import took 0.018556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamLocal.png
+  artifactKey: Guid(c2fac150a1429f44192d77f33b7330c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/BlackboardIcons/ParamLocal.png using Guid(c2fac150a1429f44192d77f33b7330c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cff68da2248e3cb3206fca6c0d147db') in 0.017217 seconds 
+  Import took 0.025457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.608011 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Menu/redo_hover.png
+  artifactKey: Guid(59b59c09654db2242bb3ce5cfcc37209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Menu/redo_hover.png using Guid(59b59c09654db2242bb3ce5cfcc37209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41a7da03b5a311d44933fe147953a1c') in 0.015638 seconds 
+  Import took 0.021718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Menu/redo_pressed.png
+  artifactKey: Guid(47315d86a06d52946be8a7e700014e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Menu/redo_pressed.png using Guid(47315d86a06d52946be8a7e700014e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d2af1d42f8df3273428a93f4d2a4cd') in 0.013664 seconds 
+  Import took 0.016844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Menu/redo_normal.png
+  artifactKey: Guid(c1010af5d936afb42a0d17474515fced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Menu/redo_normal.png using Guid(c1010af5d936afb42a0d17474515fced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b94cfa7e23829088d935a42b68c885f') in 0.018748 seconds 
+  Import took 0.022810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032087 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/RedTexture.jpg
+  artifactKey: Guid(cf1d2e5798bd6c745b42500d3cd87f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/RedTexture.jpg using Guid(cf1d2e5798bd6c745b42500d3cd87f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e72baa640fcb097919b221a1951ce4') in 0.013942 seconds 
+  Import took 0.017477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.676976 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_background.png
+  artifactKey: Guid(32213cd229937d047b9259c828336274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_background.png using Guid(32213cd229937d047b9259c828336274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd140ea91ab15e799ebb2201997220fab') in 0.013122 seconds 
+  Import took 0.017361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_background_no_focus.png
+  artifactKey: Guid(d8fafede1d1186a4fb0adff9fa639b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_background_no_focus.png using Guid(d8fafede1d1186a4fb0adff9fa639b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6d26772d8ffafb7716954418f0d567') in 0.015019 seconds 
+  Import took 0.018484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047264 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_background_no_focusPRO.png
+  artifactKey: Guid(87e761acd4f327c4097697698de3c35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_background_no_focusPRO.png using Guid(87e761acd4f327c4097697698de3c35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39332422bb997de40b6f30d0d89fb78') in 0.014788 seconds 
+  Import took 0.018306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_backgroundPRO.png
+  artifactKey: Guid(11b261b32251a134b8c94822bb88f74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/selected_backgroundPRO.png using Guid(11b261b32251a134b8c94822bb88f74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ebcf33940673f87b083648c16c3c66') in 0.015287 seconds 
+  Import took 0.018967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.194358 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Separator.png
+  artifactKey: Guid(bca2cec801f9b3c49b3ef6952e2ce94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Separator.png using Guid(bca2cec801f9b3c49b3ef6952e2ce94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5d8acf5336a50b4717594aab283962') in 0.013295 seconds 
+  Import took 0.017664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/SeparatorPRO.png
+  artifactKey: Guid(8ac95fa43322bbe45ab277871e687078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/SeparatorPRO.png using Guid(8ac95fa43322bbe45ab277871e687078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff40f0f115818a54fe1bdc0880b99e06') in 0.011683 seconds 
+  Import took 0.015115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.532366 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/sibling_collapsed.png
+  artifactKey: Guid(9fc6e702bb4dd334f80c5c82569bb25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/sibling_collapsed.png using Guid(9fc6e702bb4dd334f80c5c82569bb25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23661a92f0107f74cccca2b6e31178e1') in 0.018092 seconds 
+  Import took 0.021795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/sibling_expanded.png
+  artifactKey: Guid(259a311da1d75ad45b47bb53b47860f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/sibling_expanded.png using Guid(259a311da1d75ad45b47bb53b47860f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82184c412bc57734bdefd3ae6bdd25e') in 0.015313 seconds 
+  Import took 0.018803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/sibling_no_child.png
+  artifactKey: Guid(6946e2d47416c654db4304d477f683fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TreeViewController/sibling_no_child.png using Guid(6946e2d47416c654db4304d477f683fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902c6b54369f45ba250a849b42633b2e') in 0.017388 seconds 
+  Import took 0.023413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028907 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowLeft.png
+  artifactKey: Guid(8e3a29230d0e1cf4dab3029b9c232ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowLeft.png using Guid(8e3a29230d0e1cf4dab3029b9c232ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbc47c2dce1d3280a5f9f2a407d74ee') in 0.013244 seconds 
+  Import took 0.021911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowLeft_pro.png
+  artifactKey: Guid(789a063549637924ca40287736fc0fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowLeft_pro.png using Guid(789a063549637924ca40287736fc0fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b9ef79756ec3d23b333d29e2510bcd') in 0.014080 seconds 
+  Import took 0.018244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.218552 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowRight.png
+  artifactKey: Guid(418a328ca4c20034faf299b4ca6a442b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowRight.png using Guid(418a328ca4c20034faf299b4ca6a442b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c69bb3d54c23671ff9ebcfe1ea6542') in 0.013574 seconds 
+  Import took 0.018273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowRight_pro.png
+  artifactKey: Guid(9c6f5bb76565da044b7217bc4a5ef26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/SmallArrowRight_pro.png using Guid(9c6f5bb76565da044b7217bc4a5ef26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac71cf305088ac464c6a9c0e190228c') in 0.016188 seconds 
+  Import took 0.019708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041758 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_guarda.png
+  artifactKey: Guid(e476d229d7e38c744bc75048b03a5197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_guarda.png using Guid(e476d229d7e38c744bc75048b03a5197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11d48898c94616362d79226eae07a40') in 0.019832 seconds 
+  Import took 0.024105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_prioritySelector.png
+  artifactKey: Guid(bbcb509adb044834ebfc70349df762f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_prioritySelector.png using Guid(bbcb509adb044834ebfc70349df762f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6deb8ba5eb799cad7736f9d99ca22904') in 0.022522 seconds 
+  Import took 0.026799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_repeat.png
+  artifactKey: Guid(22ffeaa7a0e94ad4db75e1a07f177431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_repeat.png using Guid(22ffeaa7a0e94ad4db75e1a07f177431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a99d0cd9e7254ca482e8413a09a06e') in 0.017302 seconds 
+  Import took 0.022078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_inversor.png
+  artifactKey: Guid(c11fa9bb9fb65c84494ed61ad4ec9698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_inversor.png using Guid(c11fa9bb9fb65c84494ed61ad4ec9698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a5afb8bb18dd3e00a08adf0611481d') in 0.014303 seconds 
+  Import took 0.019073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_parallel.png
+  artifactKey: Guid(df2cb453e3bc18a459681ad7a5c17832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_parallel.png using Guid(df2cb453e3bc18a459681ad7a5c17832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f396cb65e44f5c2c5e9b02fa091cd4b') in 0.019923 seconds 
+  Import took 0.027642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_randomSelector.png
+  artifactKey: Guid(f907b7c916a92ef46ad389b48bf7929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_randomSelector.png using Guid(f907b7c916a92ef46ad389b48bf7929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6533c75bd11b2eed2af088e4f53dc5d') in 0.018658 seconds 
+  Import took 0.024880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_randomSequence.png
+  artifactKey: Guid(9da239fb330a2424e8501b05afb4558b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_randomSequence.png using Guid(9da239fb330a2424e8501b05afb4558b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62401e357f7ecf3c3db239115d04427e') in 0.019317 seconds 
+  Import took 0.023659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119946 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_selector.png
+  artifactKey: Guid(34ecfa313a43b7745a3aaddbee188888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_selector.png using Guid(34ecfa313a43b7745a3aaddbee188888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb20d4c8a9f8bd80e6083c8f657b5f0e') in 0.014442 seconds 
+  Import took 0.019289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001044 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_sequence.png
+  artifactKey: Guid(ee7a27f8e0fe1d340a13681ebba3d5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/NodeButtons/NodeSymbols/symbol_sequence.png using Guid(ee7a27f8e0fe1d340a13681ebba3d5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ef3597c555b73b61ec77895b495986') in 0.018745 seconds 
+  Import took 0.024360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044364 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_new.png
+  artifactKey: Guid(70da290f4f6d3b544b74630898ea2eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_new.png using Guid(70da290f4f6d3b544b74630898ea2eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4714c3e995324383f92b9b7099a7185c') in 0.015943 seconds 
+  Import took 0.021193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_normal.png
+  artifactKey: Guid(73863a3fb5619f64daf9c885892c8819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_normal.png using Guid(73863a3fb5619f64daf9c885892c8819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e1db51d21eeb0bd7abc712843dc4ef') in 0.019565 seconds 
+  Import took 0.024109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.239049 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_normalPRO.png
+  artifactKey: Guid(779d0d67d911d78429a48fea8ad32e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_normalPRO.png using Guid(779d0d67d911d78429a48fea8ad32e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90cd109b669a4e9f1923eb93393f321c') in 0.014702 seconds 
+  Import took 0.018505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_selected.png
+  artifactKey: Guid(74429b5ee8fc9be48b9e05c621f8f834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_selected.png using Guid(74429b5ee8fc9be48b9e05c621f8f834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233636318391970ab6a61f1fb2fb9058') in 0.014253 seconds 
+  Import took 0.017566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_selectedPRO.png
+  artifactKey: Guid(6076841e93d585c4fa2a33b084b4d382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/TabbedPanel/tab_selectedPRO.png using Guid(6076841e93d585c4fa2a33b084b4d382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c249ceda24c10dcb64f84d92c18d3cd') in 0.017920 seconds 
+  Import took 0.029113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017953 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/textFrame.png
+  artifactKey: Guid(d0c5426422e083b46ab2f584e8882d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/textFrame.png using Guid(d0c5426422e083b46ab2f584e8882d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f07ea872d2d0c139bcf613707cdef84') in 0.017553 seconds 
+  Import took 0.021413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/textFrameFocus.png
+  artifactKey: Guid(880c3bbf81baf234c98efd3147d70df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/textFrameFocus.png using Guid(880c3bbf81baf234c98efd3147d70df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc43aa9610d5d5626050bf4515daa99c') in 0.018091 seconds 
+  Import took 0.023881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/textFrameDisabled.png
+  artifactKey: Guid(a5d64432bd9b21140a83ed36583f40ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/textFrameDisabled.png using Guid(a5d64432bd9b21140a83ed36583f40ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f09b6b1949b10a0f21e5dc5ad1ef57') in 0.020907 seconds 
+  Import took 0.024564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/textFrameDisabledPRO.png
+  artifactKey: Guid(d7a75f2c7c6a3af41a38a4f20ced9abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/textFrameDisabledPRO.png using Guid(d7a75f2c7c6a3af41a38a4f20ced9abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7825ead74ff002fca37f8873a205715') in 0.016694 seconds 
+  Import took 0.020819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.157292 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/textFrameFocusPRO.png
+  artifactKey: Guid(24068b72e921b4044b6611ad6a5216f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/textFrameFocusPRO.png using Guid(24068b72e921b4044b6611ad6a5216f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4482e151487379113a50be52cc407209') in 0.014911 seconds 
+  Import took 0.018647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/textFramePRO.png
+  artifactKey: Guid(32b340b70786eb84391cf0276b2d48de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/textFramePRO.png using Guid(32b340b70786eb84391cf0276b2d48de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c352a7409159abc14b99ea70fda27beb') in 0.017542 seconds 
+  Import took 0.021014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046100 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/transparente.png
+  artifactKey: Guid(c44033096adfe8e489790412d9b1a112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/transparente.png using Guid(c44033096adfe8e489790412d9b1a112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5accf6775e93c33d5e5e9053d03ff009') in 0.013758 seconds 
+  Import took 0.017119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Menu/undo_normal.png
+  artifactKey: Guid(dba8857e6a72561429b677c428896af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Menu/undo_normal.png using Guid(dba8857e6a72561429b677c428896af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce678e3f14840183844e0cab53758d79') in 0.018145 seconds 
+  Import took 0.022871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001192 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Menu/undo_hover.png
+  artifactKey: Guid(45a60fa160be16745be493dae1b4edac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Menu/undo_hover.png using Guid(45a60fa160be16745be493dae1b4edac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7157367a0f318eb81ea25d3ad2510bdf') in 0.020930 seconds 
+  Import took 0.026332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183765 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/Menu/undo_pressed.png
+  artifactKey: Guid(d486f12ad8ddc7d4c8aa1056d999fdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/Menu/undo_pressed.png using Guid(d486f12ad8ddc7d4c8aa1056d999fdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ef19196e994cf412016b5da4937886') in 0.015118 seconds 
+  Import took 0.019385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036454 seconds.
+  path: Assets/Wander.asset
+  artifactKey: Guid(612764b4e07e4984fad61391ecadaed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wander.asset using Guid(612764b4e07e4984fad61391ecadaed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1750eaf772571dfbdc656004526c11d') in 0.003484 seconds 
+  Import took 0.009901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/WhiteTextureGUI.jpg
+  artifactKey: Guid(748fe80cfeae63f4e84a3d54cd6d103f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/WhiteTextureGUI.jpg using Guid(748fe80cfeae63f4e84a3d54cd6d103f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68cb62f9af9f6eb9f37e92a748386f2d') in 0.015008 seconds 
+  Import took 0.018870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/WhiteTexture.jpg
+  artifactKey: Guid(cea2c7d5b63bec84794e5e6eb18ed722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BehaviorBricks/Editor/Resources/Images/auxTextures/WhiteTexture.jpg using Guid(cea2c7d5b63bec84794e5e6eb18ed722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4c87aba15c2c907617adccd9f4a723') in 0.019574 seconds 
+  Import took 0.024972 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005088 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.500 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3502ms)
+		BeginReloadAssembly (260ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (92ms)
+		EndReloadAssembly (3097ms)
+			LoadAssemblies (204ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (675ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (1898ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (172ms)
+				ProcessInitializeOnLoadAttributes (456ms)
+				ProcessInitializeOnLoadMethodAttributes (1243ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2092.
+Total: 8.165800 ms (FindLiveObjects: 0.656300 ms CreateObjectMapping: 0.329200 ms MarkObjects: 7.108800 ms  DeleteObjects: 0.069400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.833 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3834ms)
+		BeginReloadAssembly (258ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (3419ms)
+			LoadAssemblies (224ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (823ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (99ms)
+			SetupLoadedEditorAssemblies (2039ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (170ms)
+				ProcessInitializeOnLoadAttributes (470ms)
+				ProcessInitializeOnLoadMethodAttributes (1368ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 6.361100 ms (FindLiveObjects: 0.467000 ms CreateObjectMapping: 0.203300 ms MarkObjects: 5.605000 ms  DeleteObjects: 0.080200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004405 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.748 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3749ms)
+		BeginReloadAssembly (259ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (3319ms)
+			LoadAssemblies (230ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (735ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (2014ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (178ms)
+				ProcessInitializeOnLoadAttributes (485ms)
+				ProcessInitializeOnLoadMethodAttributes (1312ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2096.
+Total: 12.237700 ms (FindLiveObjects: 0.409300 ms CreateObjectMapping: 0.591300 ms MarkObjects: 11.197400 ms  DeleteObjects: 0.037200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005464 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.930 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3931ms)
+		BeginReloadAssembly (294ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (99ms)
+		EndReloadAssembly (3474ms)
+			LoadAssemblies (231ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (747ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (135ms)
+			SetupLoadedEditorAssemblies (2098ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (182ms)
+				ProcessInitializeOnLoadAttributes (510ms)
+				ProcessInitializeOnLoadMethodAttributes (1367ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1528 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2098.
+Total: 11.566100 ms (FindLiveObjects: 2.074200 ms CreateObjectMapping: 0.633400 ms MarkObjects: 8.815700 ms  DeleteObjects: 0.040800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
